@@ -1,4 +1,12 @@
 ### Hi there 👋
+I'm Steve (@ded-possum)
+
+🪴 I'm currently learning front-end coding.
+
+🎆 I'm excited about joining the tech industry!
+
+💬 Ask me about NewForce!
+
 
 <!--
 **ded-possum/ded-possum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
