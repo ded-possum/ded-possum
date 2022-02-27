@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Steve (@ded-possum)
 
-🪴 I'm currently learning front-end coding.
+🪴 I'm currently learning back-end, server-side coding in C#/.NET and SQL.
 
 🎆 I'm excited about joining the tech industry!
 
